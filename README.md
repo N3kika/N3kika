@@ -1,4 +1,19 @@
 <img src = "duckcoding.gif" width = "325px" align = "right">
 
 # Seja bem vindo ao meu GitHub! 🦆💞
-Estou iniciando minha jornada na área de desenvolvimento. Atualmente, estou focado no aprendizado da linguagem *Python*, construindo uma base sólida em lógica de programação e desenvolvimento de software. Meu objetivo a médio e longo prazo é atuar na área de desenvolvimento de jogos, explorando tecnologias voltadas para criação de experiências interativas e imersivas. Estou em constante evolução, sempre buscando novos conhecimentos e desafios que contribuam para meu crescimento profissional.
+Olá, sou a *Kika*.
+
+-📚 Desenvolvendo Python.
+
+-👩‍💻 Estudante de Desenvolvimento de Software.
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+
+---
+<div>
+  <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/N3kika">
+
+</div>
